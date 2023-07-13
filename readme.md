@@ -38,3 +38,4 @@ You might also want to move some divs closer to each other than the default 30 p
 - You should **not** edit the **HTML** file.
 - You should **not** edit the CSS **above** the warning comments in the **CSS** file.
 - You **should** add padding and margin rules **below** the warning comments, in the CSS blocks for `.first`, `.second`, etc.
+- You **should** center the fifth div. If you change your browser window's width, the div should **stay in the middle**!
