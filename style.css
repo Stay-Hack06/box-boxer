@@ -1,0 +1,36 @@
+div {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  background-clip: content-box;
+}
+
+/* DON'T change CSS above here! */
+
+/* But you CAN add CSS below. */
+
+/* (Even CSS that overrides the CSS above!) */
+
+.first {
+  /* Add as many CSS lines as you need to here! */
+}
+
+.second {
+  /* Add as many CSS lines as you need to here! */
+}
+
+.third {
+  /* Add as many CSS lines as you need to here! */
+}
+
+.fourth{
+  /* Add as many CSS lines as you need to here! */
+}
+
+.fifth {
+  text-align: center;
+  /* Add as many CSS lines as you need to here! */
+}
